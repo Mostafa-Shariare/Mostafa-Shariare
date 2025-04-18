@@ -1,6 +1,6 @@
 # Hi, I'm Mostafa Shariare! 👋
 
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGQybDetxcbDA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1725495230346?e=1730937600&v=beta&t=sMiw57W2lzMLQ2DjBVQA2yuva0e4IVLgMYaTZxxSzrg)](https://www.linkedin.com/in/mostafa-shariare-33b071298/)
+[![MasterHead](https://www.google.com/imgres?q=linkedin&imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2Fi6KNxiy3gME-BulL4WnuGkTGqHuSYF8jl1WRn0rXftcJdSYK7dHKcJ3gLAaPc-KfhmLSYPwf824%3Ds900-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fwww.youtube.com%2FLinkedin&docid=BRJFajY4kSTmZM&tbnid=6dMEBg2zQhyjeM&vet=12ahUKEwie5K7v3OKMAxX5zDgGHcrzNN8QM3oECBkQAA..i&w=900&h=900&hcb=2&ved=2ahUKEwie5K7v3OKMAxX5zDgGHcrzNN8QM3oECBkQAA)](https://www.linkedin.com/in/mostafa-shariare-33b071298/)
 
 ## About Me:
 **🎓 Ed-Tech and Engineering Student at Bangabandhu Sheikh Mujibur Rahman Digital University | ☕ Java Enthusiast | 📚 Continuous Learner in C/C++, Java, Web Development, and More!**
