@@ -1,6 +1,9 @@
 # Hi, I'm Mostafa Shariare! 👋
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/mostafa-shariare-33b071298/)
+<a href="https://www.linkedin.com/in/mostafa-shariare-33b071298/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="100" height="100">
+</a>
+
 
 
 ## About Me:
