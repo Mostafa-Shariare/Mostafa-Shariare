@@ -33,7 +33,7 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** dedicated to bu
 
 ### 💾 Backend & Cloud Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&omegaColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### 🤖 AI, CV & Core Tools
@@ -84,7 +84,7 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** dedicated to bu
 
 # 🏆 Hackathons & Accomplishments
 
-* 🥈 **CodeSpring ’25** — Participant / Competitor
+* 🚀 **CodeSpring ’25** — Participant / Competitor
 * 🚀 **Youth Coders Hack 2025** — Innovation Specialist
 * 🤖 **International AI Agents Hackathon** — Core System Architect
 
@@ -92,15 +92,24 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** dedicated to bu
 
 # 📈 GitHub Metrics & Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Shariare&show_icons=true&theme=tokyonight&count_private=true" alt="Mostafa's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Shariare&layout=compact&theme=tokyonight" alt="Top Languages" height="190px" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mostafa-Shariare&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Shariare&theme=tokyonight&margin-w=15" alt="GitHub Trophies" width="48%" />
-</p>
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Shariare&show_icons=true&theme=tokyonight&count_private=true" alt="Mostafa's GitHub Stats" height="195px" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Shariare&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=Mostafa-Shariare&theme=tokyonight" alt="GitHub Streak" height="195px" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Shariare&theme=tokyonight&margin-w=15" alt="GitHub Trophies" height="195px" />
+    </td>
+  </tr>
+</table>
 
 ### 📊 Contribution Activity
 [![Mostafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Shariare&theme=tokyo-night)](https://github.com/Mostafa-Shariare)
