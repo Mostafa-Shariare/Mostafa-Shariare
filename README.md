@@ -1,45 +1,171 @@
-# Hi, I'm Mostafa Shariare! 👋
+# Hi there 👋 I'm Mostafa Shariare
 
-<a href="https://www.linkedin.com/in/mostafa-shariare-33b071298/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="100" height="100">
-</a>
+## 🚀 About Me
 
+I am a passionate developer and AI enthusiast focused on building intelligent systems, full-stack applications, and AI-powered educational technologies. My interests include Machine Learning, Computer Vision, Large Language Models (LLMs), and scalable web applications.
 
-
-## About Me:
-**Curious Mind in Tech | Learning JavaScript & Python | Exploring AI, Web & ML | Passionate about EdTech!**
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-### 🛠 Skills and Expertise:
-- **Languages**:
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-
-- **Current Focus**: 
-  ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%23E34F26?style=flat&logo=leetcode&logoColor=white)
-  ![Fullstack Development](https://img.shields.io/badge/Fullstack%20Development-61DAFB?style=flat&logo=react&logoColor=white)
-
-### 📧 Contact Information:
-- **Email**: [mostafashariare@gmail.com](mailto:mostafashariare@gmail.com)
-
-### 🌐 Social Links:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082273587583)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-shariare-33b071298/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/MostafaSha26988)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/mostafa_)
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-shariare&show_icons=true&theme=dark&hide_border=true" alt="Mostafa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-shariare&layout=compact&theme=dark&hide_border=true" alt="Mostafa's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-shariare&theme=dark&hide_border=true" alt="Mostafa's GitHub Streak" />
-</p>
-
-### 🎉 Fun Sections:
-- **Hobby**: Reading Books 📚
-- **Favorite Quote**: *"Life is all about the next step."*
+* 🎓 Computer Science student
+* 💡 Interested in AI, ML, CV, and Full-Stack Development
+* 🧠 Currently building AI-powered educational systems
+* 🌱 Continuously learning and experimenting with new technologies
+* ⚡ Love solving real-world problems with technology
 
 ---
 
-Feel free to connect with me and explore my work!
+# 🛠️ Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+## Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase\&logoColor=white)
+
+## AI & Tools
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Visoria
+
+An ML and CV-based online classroom attention monitoring and analysis system with LLM-driven feedback for students.
+
+### Features
+
+* Real-time classroom attention monitoring
+* Student engagement analysis
+* AI-generated personalized feedback
+* Computer Vision-based behavior tracking
+* Educational analytics dashboard
+
+📌 Currently under development as a Capstone Project.
+
+---
+
+## 🤖 NL2SQL
+
+An AI-powered chatbot system for managing PostgreSQL databases using natural language queries.
+
+### Features
+
+* Natural language to SQL conversion
+* PostgreSQL database interaction
+* AI-powered query generation
+* Simplified database management
+
+🔗 Repository: [https://github.com/Mostafa-Shariare/imactx](https://github.com/Mostafa-Shariare/imactx)
+
+---
+
+## 🎓 CampusGig
+
+CampusGig is a specialized freelancing marketplace designed exclusively for university students.
+
+### Features
+
+* Student-focused freelancing platform
+* Service marketplace for campus communities
+* Developer, designer, and writer collaboration
+* Campus-centered networking
+
+🔗 Repository: [https://github.com/Mostafa-Shariare/CampusGig](https://github.com/Mostafa-Shariare/CampusGig)
+
+---
+
+## 💻 Code By Bit
+
+A browser-based code editor capable of executing JavaScript, Python, and Dart code.
+
+### Features
+
+* JavaScript, Python, and Dart execution
+* Image-to-Text (OCR)
+* Voice-to-Text conversion
+* Browser-based coding environment
+* Integrated feedback system
+
+🔗 Repository: [https://github.com/Mostafa-Shariare/code-by-bit1](https://github.com/Mostafa-Shariare/code-by-bit1)
+
+---
+
+# 🏆 Hackathon Participations
+
+* 🚀 CodeSpring ’25
+* 🚀 Youth Coders Hack 2025
+* 🚀 International AI Agents Hackathon
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Shariare\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mostafa-Shariare\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Shariare\&layout=compact\&theme=tokyonight)
+
+---
+
+# 📊 Contribution Graph
+
+[![Mostafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Shariare\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Mostafa-Shariare/Mostafa-Shariare/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🏅 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mostafa-Shariare\&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Machine Learning
+* Large Language Models (LLMs)
+* Computer Vision Systems
+* AI Agents
+* Scalable Backend Architecture
+
+---
+
+# 🎯 Goals
+
+* Build impactful AI-powered applications
+* Contribute more to open source
+* Participate in global hackathons
+* Develop innovative EdTech solutions
+* Explore AI research and intelligent systems
+
+---
+
+# 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mostafa-Shariare)
+
+---
+
+⭐ From [Mostafa-Shariare](https://github.com/Mostafa-Shariare)
